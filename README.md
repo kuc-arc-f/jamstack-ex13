@@ -6,7 +6,7 @@
 
  date    : 2021/05/01
 
- update  :
+ update  : 2021/05/02
 
 ***
 ### Summary
@@ -37,6 +37,9 @@ https://cms-kuc-jamstack-ex13.netlify.app/
 ***
 ### Blog :
 
+* tailwindcss + next.js、wordpress APIを読込む SSG作成
+
+https://zenn.dev/knaka0209/articles/3dba23e377ae03
 
 ***
 
